@@ -1,6 +1,6 @@
 # Minimum 3-cut: greedy exactness, Gomory–Hu families and planar instances
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23654823.svg)](https://doi.org/10.5281/zenodo.23654823)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23654822.svg)](https://doi.org/10.5281/zenodo.23654822)
 
 Code accompanying research by Armando Rodado Amaris on the weighted minimum 3-cut problem.
 
@@ -35,4 +35,4 @@ MIT; see `LICENSE`.
 
 ## Citation
 
-Please cite the archived code as: Armando Rodado Amaris, *minimum-3cut* (software), Zenodo, https://doi.org/10.5281/zenodo.23654823.
+Please cite the archived code as: Armando Rodado Amaris, *minimum-3cut* (software), Zenodo, https://doi.org/10.5281/zenodo.23654822.
