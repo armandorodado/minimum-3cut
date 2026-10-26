@@ -1,0 +1,2 @@
+m=7 beta=74/1000 h=1100/1000: non-trivial cuts > max degree True (min non-trivial 8278 vs max degree 8062); clusters unique optimum True (OPT 12930); hard True; single linkage+singletons+complements contains a cluster: False
+RESULT: counterexample confirmed

@@ -1,0 +1,6 @@
+family                        cluster         lb         lp     random     struct       thm9
+single linkage                272/272      44/44      24/24    701/701    163/163        1/1
+single linkage+sides          272/272      44/44      24/24    701/701    163/163        1/1
+Stoer-Wagner                  272/272      44/44      24/24    701/701    163/163        1/1
+Stoer-Wagner+sides            272/272      44/44      24/24    701/701    163/163        1/1
+SL+SW+sides                   272/272      44/44      24/24    701/701    163/163        1/1

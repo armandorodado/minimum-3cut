@@ -1,0 +1,26 @@
+family                             lp
+single linkage                  80/80
+single linkage+sides            80/80
+Stoer-Wagner                    80/80
+Stoer-Wagner+sides              80/80
+SL+SW+sides                     80/80
+family                                                    lp
+sides                                                   0/80
+sides+singletons                                       37/80
+NI prefix                                              80/80
+isolating (a vs b,c)                                   80/80
+pair-vs-root, every root                                0/80
+pair-vs-root+singletons, every root                    37/80
+pair-vs-root+singletons+sides, every root              37/80
+one-root+singletons, every root                        37/80
+one-root+singletons+sides, every root                  37/80
+nontriv-vertex+singletons+sides                        56/80
+nontriv-pair-sep+singletons+sides                      80/80
+nontriv-pair-in+singletons+sides                       80/80
+mean size NI prefix: 20.8 (max 30)
+mean size isolating (a vs b,c): 18.3 (max 27)
+mean size nontriv-vertex: 2.0 (max 2)
+mean size nontriv-pair-sep: 16.4 (max 18)
+mean size nontriv-pair-in: 4.7 (max 7)
+mean size pair-vs-root size: 3.5 (max 15)
+mean size one-root size: 3.0 (max 6)

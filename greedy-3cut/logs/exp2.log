@@ -1,0 +1,4 @@
+graphs 20000; (optimum, tree side) pairs satisfying the hypothesis: 161291, of which 161242 trivial (X inside P)
+non-trivial merges tested 49, not optimal 0
+time 24 s
+RESULT: all checks passed

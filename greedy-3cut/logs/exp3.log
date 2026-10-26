@@ -1,0 +1,8 @@
+random:     graphs 800, F(T) > OPT in 0
+structured: near-complete  graphs  400, F(T) > OPT in 0, all optima hard 400, star tree 400
+structured: circulant      graphs  380, F(T) > OPT in 0, all optima hard 372, star tree 377
+structured: clusters       graphs  397, F(T) > OPT in 0, all optima hard 147, star tree 96
+structured: wheel          graphs  400, F(T) > OPT in 0, all optima hard 357, star tree 299
+structured: total graphs 1577
+time 4 s
+RESULT: F(T) > OPT in 0 of 2377 graphs

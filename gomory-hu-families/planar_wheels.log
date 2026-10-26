@@ -1,0 +1,4 @@
+m=5 s=100 x=101 (weights doubled): planar True, degrees [800], non-trivial cuts > D True, clusters unique optimum True, hard True, OPT 1212, best with singleton part / OPT = 1.1535
+perm 0: degrees distinct True, same as first True, non-trivial cuts > max degree True, unique optimum = clusters True, star tree at max degree True, F(T) > OPT True
+perm 1: degrees distinct True, same as first True, non-trivial cuts > max degree True, unique optimum = clusters True, star tree at max degree True, F(T) > OPT True
+perm 2: degrees distinct True, same as first True, non-trivial cuts > max degree True, unique optimum = clusters True, star tree at max degree True, F(T) > OPT True

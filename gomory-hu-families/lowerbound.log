@@ -1,0 +1,7 @@
+pi=221110020210  same degrees True  nontrivial_cuts_heavier=True  unique_opt=True  opt_is_pi=True  hard=True  tree_ok=True  tree_is_star=True  F_gt_OPT=True  OPT=7248.0  F=7381.0  lam=4186.0
+pi=001011122022  same degrees True  nontrivial_cuts_heavier=True  unique_opt=True  opt_is_pi=True  hard=True  tree_ok=True  tree_is_star=True  F_gt_OPT=True  OPT=7248.0  F=7381.0  lam=4186.0
+pi=020021120112  same degrees True  nontrivial_cuts_heavier=True  unique_opt=True  opt_is_pi=True  hard=True  tree_ok=True  tree_is_star=True  F_gt_OPT=True  OPT=7248.0  F=7390.0  lam=4186.0
+pi=022021021110  same degrees True  nontrivial_cuts_heavier=True  unique_opt=True  opt_is_pi=True  hard=True  tree_ok=True  tree_is_star=True  F_gt_OPT=True  OPT=7248.0  F=7399.0  lam=4186.0
+pi=212101100022  same degrees True  nontrivial_cuts_heavier=True  unique_opt=True  opt_is_pi=True  hard=True  tree_ok=True  tree_is_star=True  F_gt_OPT=True  OPT=7248.0  F=7390.0  lam=4186.0
+pi=102202121010  same degrees True  nontrivial_cuts_heavier=True  unique_opt=True  opt_is_pi=True  hard=True  tree_ok=True  tree_is_star=True  F_gt_OPT=True  OPT=7248.0  F=7417.0  lam=4186.0
+RESULT: all checks passed

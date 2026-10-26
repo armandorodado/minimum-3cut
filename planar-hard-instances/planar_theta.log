@@ -1,0 +1,6 @@
+graphs 400, all optima hard in 95, greedy inexact (theta strictly better) in 20; theta lighter than OPT (impossible) in 0; OPT = min(greedy, T*) in 400; with Baker windows in 400
+RESULT: all checks passed
+graphs 400, all optima hard in 114, greedy inexact (theta strictly better) in 30; theta lighter than OPT (impossible) in 0; OPT = min(greedy, T*) in 400; with Baker windows in 400
+RESULT: all checks passed
+graphs 400, all optima hard in 107, greedy inexact (theta strictly better) in 25; theta lighter than OPT (impossible) in 0; OPT = min(greedy, T*) in 400; with Baker windows in 400
+RESULT: all checks passed

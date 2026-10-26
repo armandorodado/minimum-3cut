@@ -1,0 +1,20 @@
+family                                               cluster            lb            lp        random        struct          thm9
+sides                                                272/272          0/44          0/24       701/701       163/163           0/1
+sides+singletons                                     272/272          0/44          3/24       701/701       163/163           0/1
+NI prefix                                            272/272         44/44         24/24       701/701       163/163           1/1
+isolating (a vs b,c)                                 272/272         23/44         24/24       701/701       163/163           1/1
+pair-vs-root, every root                               0/272          0/44          0/24        28/701         0/163           0/1
+pair-vs-root+singletons, every root                  158/272          0/44          3/24       691/701       163/163           0/1
+pair-vs-root+singletons+sides, every root            272/272          0/44          3/24       701/701       163/163           0/1
+one-root+singletons, every root                      158/272          0/44          3/24       691/701       163/163           0/1
+one-root+singletons+sides, every root                272/272          0/44          3/24       701/701       163/163           0/1
+nontriv-vertex+singletons+sides                      272/272         44/44         13/24       701/701       163/163           1/1
+nontriv-pair-sep+singletons+sides                    272/272         44/44         24/24       701/701       163/163           1/1
+nontriv-pair-in+singletons+sides                     272/272         44/44         24/24       701/701       163/163           1/1
+mean size NI prefix: 18.8 (max 42)
+mean size isolating (a vs b,c): 19.3 (max 49)
+mean size nontriv-vertex: 2.3 (max 10)
+mean size nontriv-pair-sep: 15.2 (max 40)
+mean size nontriv-pair-in: 6.3 (max 22)
+mean size pair-vs-root size: 3.5 (max 36)
+mean size one-root size: 2.6 (max 14)

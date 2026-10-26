@@ -1,0 +1,11 @@
+graphs                   1600
+min_cuts                 1800
+thm1_checks              26239677
+thm1_viol                0
+cor3_viol                0
+inexact_graphs           121
+inexact_not_all_hard     0
+hard_optima              429
+prop5_viol               0
+time 1 s
+RESULT: all checks passed

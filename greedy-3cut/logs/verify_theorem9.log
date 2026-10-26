@@ -1,0 +1,14 @@
+lambda = 0.622248
+  ok    unique minimum-weight 3-partition, OPT = 1.032456
+optimum {s,u₀}, {ℓ₀,ℓ₁,ℓ₂}, {c₀,c₁}; pair weights 0.321339, 0.398165, 0.312952
+  ok    optimum is hard (all pair weights below lambda)
+  ok    exactly one Gomory-Hu cut tree among 16807 labelled spanning trees
+tree T: ℓ₀-s (0.631143), ℓ₁-s (0.626244), ℓ₂-s (0.622248), s-u₀ (0.713745), c₀-u₀ (0.685567), u₀-c₁ (0.699878)
+  ok    each tree edge has a unique minimum-weight cut
+  ok    F(T) = 1.035084 > OPT = 1.032456 (gap 0.002628)
+  ok    no part of the optimum is a side of T
+RESULT: all claims of Theorem 9 verified
+
+real	0m0.666s
+user	0m0.852s
+sys	0m0.060s

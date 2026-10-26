@@ -1,0 +1,25 @@
+Part 1: LP margins (|B|, |C|, spine extra, extra A-leaves at s, extra A-leaves at u0)
+  shape (1, 1): max margin -0.00000
+  shape (1, 2): max margin -0.00000
+  shape (2, 1): max margin -0.00000
+  shape (2, 2): max margin -0.00000
+  shape (3, 1): max margin -0.00000
+  shape (2, 1, 1): max margin -0.00000
+  shape (2, 2, 1): max margin -0.00000
+  shape (2, 1, 0, 1): max margin -0.00000
+  shape (2, 1, 0, 0, 1): max margin -0.00000
+  shape (3, 2): max margin +0.03448
+  shape (3, 3): max margin +0.11111
+  shape (4, 2): max margin +0.05000
+  shape (3, 2, 0, 1): max margin +0.03448
+  shape (3, 2, 1): max margin +0.03448
+  shape (3, 2, 0, 0, 1): max margin +0.03448
+Part 2: perturbed LP optima
+  perturbed graphs 72, F(T) > OPT in 4
+  adding the leaf-neighbour sets of tree vertices (open question 1) fixes 1 of 4
+time 0 s
+RESULT: 6 shapes with positive margin; F(T) > OPT in 4 of 72 perturbed graphs
+
+real	0m0.913s
+user	0m1.067s
+sys	0m0.087s

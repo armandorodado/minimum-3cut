@@ -1,0 +1,12 @@
+k=3: graphs 250; condition holds in 198, violations 0; bound checked at 281 cuts, violations 0; factor 1.3333 violations 0 (worst R/OPT 1.2375)
+k=4: graphs 300; condition holds in 245, violations 0; bound checked at 335 cuts, violations 0; factor 1.3333 violations 0 (worst R/OPT 1.1053)
+      weaker condition holds in 300, of which R_k > OPT_k in 14
+k=5: graphs 300; condition holds in 242, violations 0; bound checked at 347 cuts, violations 0; factor 1.3000 violations 0 (worst R/OPT 1.0690)
+      weaker condition holds in 300, of which R_k > OPT_k in 10
+example: lambda = 2 (attained by {p}: True), OPT_4 = 4, R_4({p}) = 5  ->  as stated
+time 1 s
+RESULT: all checks passed
+
+real	0m1.205s
+user	0m1.425s
+sys	0m0.024s

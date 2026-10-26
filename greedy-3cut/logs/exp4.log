@@ -1,0 +1,10 @@
+seed 7: done, 60 climbs so far, best relative t -0.0022, 221 s
+seed 99: done, 120 climbs so far, best relative t -0.0022, 393 s
+seed 2026: done, 180 climbs so far, best relative t -0.0012, 582 s
+seed 31: done, 240 climbs so far, best relative t -0.0012, 767 s
+climbs 240, climbs reaching F(T) > OPT 0, best relative t -0.0012
+RESULT: 0 of 240 climbs found F(T) > OPT
+
+real	12m47.450s
+user	12m39.513s
+sys	0m0.331s

@@ -1,0 +1,2 @@
+sw_lp_6_12_0.json n 6 optimum parts [2, 2, 2] hard True | SW alone hits False | SW+sides+singletons hits True | random start vertices: SW misses in 13 of 200 runs | sides alone hit True
+sw_lp_7_13_0.json n 7 optimum parts [3, 2, 2] hard True | SW alone hits False | SW+sides+singletons hits True | random start vertices: SW misses in 14 of 200 runs | sides alone hit True
