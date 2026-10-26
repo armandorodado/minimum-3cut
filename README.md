@@ -4,7 +4,7 @@ Code accompanying research by Armando Rodado Amaris on the weighted minimum 3-cu
 
 | Folder | Contents |
 | --- | --- |
-| [`greedy-3cut/`](greedy-3cut/) | Supplementary material for *When is greedy exact for weighted minimum 3-cut?* (submitted to Operations Research Letters): Lean 4 proofs and Python scripts reproducing every computation in the paper |
+| [`greedy-3cut/`](greedy-3cut/) | *When is greedy exact for weighted minimum 3-cut?* (submitted to Operations Research Letters; arXiv identifier to be added): the LaTeX source in `paper/`, Lean 4 proofs, and Python scripts reproducing every computation in the paper |
 | [`gomory-hu-families/`](gomory-hu-families/) | Follow-up work: no small family of candidate parts can be read off a Gomory–Hu tree; tests of candidate families; single-linkage and Stoer–Wagner experiments; k-cut and planar extensions |
 | [`planar-hard-instances/`](planar-hard-instances/) | Hard planar instances: light thetas in the dual, and structure tests for an o(n²) algorithm |
 
